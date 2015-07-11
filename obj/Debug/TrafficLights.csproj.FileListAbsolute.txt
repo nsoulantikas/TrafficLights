@@ -1,0 +1,9 @@
+\\VBOXSVR\VirtualBox_VMs\TrafficLights\TrafficLights\bin\Debug\TrafficLights.exe.config
+\\VBOXSVR\VirtualBox_VMs\TrafficLights\TrafficLights\bin\Debug\TrafficLights.exe
+\\VBOXSVR\VirtualBox_VMs\TrafficLights\TrafficLights\bin\Debug\TrafficLights.pdb
+\\VBOXSVR\VirtualBox_VMs\TrafficLights\TrafficLights\obj\Debug\TrafficLights.csprojResolveAssemblyReference.cache
+\\VBOXSVR\VirtualBox_VMs\TrafficLights\TrafficLights\obj\Debug\TrafficLights.Form1.resources
+\\VBOXSVR\VirtualBox_VMs\TrafficLights\TrafficLights\obj\Debug\TrafficLights.Properties.Resources.resources
+\\VBOXSVR\VirtualBox_VMs\TrafficLights\TrafficLights\obj\Debug\TrafficLights.csproj.GenerateResource.Cache
+\\VBOXSVR\VirtualBox_VMs\TrafficLights\TrafficLights\obj\Debug\TrafficLights.exe
+\\VBOXSVR\VirtualBox_VMs\TrafficLights\TrafficLights\obj\Debug\TrafficLights.pdb
